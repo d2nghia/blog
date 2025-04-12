@@ -18,7 +18,7 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   # gem "github-pages", "~> 228"
-  gem 'jekyll-postfiles', git: 'https://github.com/d2nghia/jekyll-postfiles'
+  gem 'jekyll-postfiles', git: 'https://github.com/dgtvan/jekyll-postfiles'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
